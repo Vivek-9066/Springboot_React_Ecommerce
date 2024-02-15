@@ -88,7 +88,7 @@ const Footer = () => {
 
             <Grid className='pt-20' item xs={12}>
                 <Typography variant='body2' component="p" align='center'>
-                    &copy; 2023 E-Shopper. All right reserved.
+                    &copy; 2023 E-Shopper Store. All right reserved.
                 </Typography>
                 <Typography variant='body2' component="p" align='center'>
                    Made with love by me.
@@ -102,7 +102,6 @@ const Footer = () => {
                    <Link href="#" color='inherit' underline='always'>
                     Freepik
                    </Link>
-
                 </Typography>
             </Grid>
         </Grid>

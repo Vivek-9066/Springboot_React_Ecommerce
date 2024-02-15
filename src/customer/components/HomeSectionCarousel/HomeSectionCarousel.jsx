@@ -9,13 +9,13 @@ const HomeSectionCarousel = ({ data,sectionName }) => {
     const responsive={
         0:{items:1},
         720:{items:3},
-        1024:{items:5}
+        1024:{items:6}
     }
     const items= data.slice(0,10).map((item)=><HomeSectionCard product={item}/>);
 
     const syncActiveIndex=({items})=> setActiveIndex(items)
   return (
-    <div className='relative px-4 lg:px-8'>
+    <div className='relative px-4 lg:px-4'>
         <h2 className='text-2xl font-extrabold text-gray-800 py-5'>{sectionName}</h2>
         <div className='relative p-5'>
             <AliceCarousel

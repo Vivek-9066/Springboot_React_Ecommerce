@@ -7,7 +7,7 @@ const PrivacyPolicy = () => {
       <h1 className="text-3xl font-bold mb-5">Privacy Policy</h1>
       <div className="text-lg">
         <p className="mb-3">
-          At [Your Company Name], we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information.
+          At <b>E Shopper Store</b>, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information.
         </p>
         <h2 className="text-xl font-semibold mb-3">Information Collection</h2>
         <p className="mb-3">

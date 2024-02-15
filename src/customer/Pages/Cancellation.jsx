@@ -7,7 +7,7 @@ const Cancellation = () => {
       <h1 className="text-3xl font-bold mb-5">Cancellation Policy</h1>
       <div className="text-lg">
         <p className="mb-3">
-          At [Your Company Name], we understand that circumstances may arise where you need to cancel your order. We strive to make the cancellation process as simple and transparent as possible.
+          At <b>E Shopper Store</b>, we understand that circumstances may arise where you need to cancel your order. We strive to make the cancellation process as simple and transparent as possible.
         </p>
         <h2 className="text-xl font-semibold mb-3">Order Cancellation</h2>
         <p className="mb-3">

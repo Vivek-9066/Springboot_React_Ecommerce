@@ -32,7 +32,7 @@ const Terms = () => {
         </p>
         <h2 className="text-xl font-semibold mb-3">Contact Us</h2>
         <p className="mb-3">
-          If you have any questions or concerns about these Terms and Conditions, please contact us at [contact email or phone number].
+          If you have any questions or concerns about these Terms and Conditions, please contact us at <a href='/contact'><b>Contact us</b></a>
         </p>
       </div>
     </div>
